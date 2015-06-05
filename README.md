@@ -1,5 +1,5 @@
 # Plugins
-Plugin submissions will be maintained using the issue system.
+Plugin submissions will be maintained using the issue system. Replace the word _issue_ with _plugin_.
 
 |
 
